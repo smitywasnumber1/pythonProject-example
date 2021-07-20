@@ -1,4 +1,4 @@
-def main(msg)
+def main(msg):
     print(msg)
 
 main("Bonjour tout le monde")
