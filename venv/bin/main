@@ -1,6 +1,5 @@
 def main(msg):
-    //Different comment
-//This is my new comment.
+//A new comment altogether
     print(msg)
 
 main("Bonjour tout le monde")
